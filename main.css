@@ -1,0 +1,15 @@
+div {
+    text-align: center;
+    background-color: lightblue;
+}
+
+body {
+    background-image: url("craterlake.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat
+
+}
+
+.nav {
+    margin-top: 500px;
+}
